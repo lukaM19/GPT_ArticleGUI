@@ -22,7 +22,7 @@ def extract_article_text(url):
 
 def chat_gpt_api(question):
     # Replace 'your_api_key_here' with your actual API key
-    openai.api_key = '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'
+    openai.api_key =
 
     # Set up the API request parameters
     model = 'gpt-3.5-turbo'  # You can use other GPT models like 'text-curie-002' or 'text-babbage-002'
